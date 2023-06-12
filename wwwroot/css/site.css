@@ -1,0 +1,10 @@
+/* Add any CSS needed here */
+
+/* minimal CSS just to start */
+html {
+    background-color: aqua;
+    min-width: max-content;
+    min-height: max-content;
+    margin-left: 100px;
+    margin-top: 50px;
+}
